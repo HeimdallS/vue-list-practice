@@ -1,7 +1,7 @@
 <template>
-<div class="task">
+<div :class="[task.reminder ? reminder : '', 'task']">
     <h3>{{task.text}}
-        <i class="fas.fa-times"></i>
+        <fa icon="times" class="icon"/>
     </h3>
     <p>{{task.day}}</p>
 </div>
@@ -17,7 +17,8 @@ export default {
 </script>
 
 <style scoped>
-    .fas {
+
+    .icon {
     color: red;
     }
 
