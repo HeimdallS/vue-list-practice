@@ -4,7 +4,7 @@
       "id": "1",
       "text": "Taking dog to vet",
       "day": "Sept 9th at 3:30pm",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": "2",
@@ -13,10 +13,10 @@
       "reminder": true
     },
     {
-      "id": "3",
-      "text": "Grocery shopping",
-      "day": "Sept 12th at 1:30pm",
-      "reminder": false
+      "text": "Have lunch with family",
+      "day": "Oct 19th @ 1:15pm",
+      "reminder": true,
+      "id": "U3fXFs8"
     }
   ]
 }

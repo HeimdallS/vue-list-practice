@@ -39,7 +39,7 @@
                 }
 
                 const newTask = {
-                    id: uuid.v1(),
+                    // id: uuid.v1(),
                     text: this.text,
                     day: this.day,
                     reminder: this.reminder,
