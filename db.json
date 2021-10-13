@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Taking dog to vet",
+      "day": "Sept 9th at 3:30pm",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Lunch date with partner",
+      "day": "Sept 11th at 12:00pm",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Grocery shopping",
+      "day": "Sept 12th at 1:30pm",
+      "reminder": false
+    }
+  ]
+}
